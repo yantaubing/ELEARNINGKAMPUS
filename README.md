@@ -78,8 +78,8 @@ ELearningKampus-UAS/
 ## 🚀 Cara Menjalankan
 
 ```bash
-git clone https://github.com/username/e-learning-kampus.git
-cd e-learning-kampus
+git clone https://github.com/yantaubing/ELEARNINGKAMPUS/
+cd ELearningKampus-UAS
 npm install
 npx expo start
 ```
@@ -101,19 +101,19 @@ Setelah build selesai, unduh APK dari dashboard [expo.dev](https://expo.dev) lal
 
 ### Download APK
 
-[Download APK terbaru](LINK_APK_GITHUB_RELEASE_ATAU_DRIVE) — *ganti dengan link asli setelah build selesai*
+[Download APK terbaru](https://expo.dev/accounts/yantaubing050805/projects/e-learning-kampus/builds/644f5493-5d3d-4e71-9cc2-0b40a945e808)
 
 ---
 
 ## 🌐 Expo Snack
 
-[Buka di Expo Snack](LINK_EXPO_SNACK) — *ganti dengan link Snack asli*
+[Buka di Expo Snack](https://snack.expo.dev/@yantaubing050805/elearningkampus)
 
 ---
 
 ## 👤 Developer
 
-**[Nama Lengkap]** | [NIM] | [Kelas]
+**[FREDDY]** | [243303621223] | [4 PAGI A]
 Universitas Prima Indonesia — Prodi Sistem Informasi
 Mata Kuliah: Pemrograman Mobile (TI-MOBILE-01)
 "# ELEARNINGKAMPUS" 
