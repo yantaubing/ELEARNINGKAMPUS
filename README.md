@@ -116,3 +116,4 @@ Setelah build selesai, unduh APK dari dashboard [expo.dev](https://expo.dev) lal
 **[Nama Lengkap]** | [NIM] | [Kelas]
 Universitas Prima Indonesia — Prodi Sistem Informasi
 Mata Kuliah: Pemrograman Mobile (TI-MOBILE-01)
+"# ELEARNINGKAMPUS" 
