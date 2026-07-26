@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "E-Learning Kampus",
+    "slug": "e-learning-kampus",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#4F46E5"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.upi.elearningkampus",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#4F46E5"
+      },
+      "permissions": [
+        "CAMERA",
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE"
+      ]
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.upi.elearningkampus"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "PASTE-YOUR-EAS-PROJECT-ID-HERE"
+      }
+    }
+  }
+}
