@@ -33,8 +33,9 @@
     },
     "extra": {
       "eas": {
-        "projectId": "PASTE-YOUR-EAS-PROJECT-ID-HERE"
+        "projectId": "169feef3-ff9c-4947-b342-4d2cf21769f4"
       }
-    }
+    },
+    "owner": "yantaubing050805"
   }
 }
